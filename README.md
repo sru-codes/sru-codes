@@ -1,25 +1,37 @@
+👋 Hi, I'm Srustisri Panda
 
-# 👋 Hi, I'm Srustisri Panda  
-
-🌱 **B.Tech CSE | Learning C & Web Dev**  
-✨ exploring, experimenting, evolving  
-🚀 building one repo at a time  
-
----
-
-### 💻 Skills I'm Learning  
-- C Programming  
-- HTML  
-- CSS  
+🎓 B.Tech CSE @ GIET | Odisha, India
+✨ exploring, experimenting, evolving
+🚀 building one repo at a time
 
 ---
 
-### 🎯 Goals  
-- Build my first project  
-- Contribute to open-source someday  
-- Grow consistently 💚  
+## 💻 Skills I'm Learning
+
+- 🐍 Python
+- 📊 DSA (Data Structures & Algorithms)
+- 🌐 Web Development
+- ⚙️ Backend Development
+- 🤖 AI / ML
+- ☁️ Cloud Computing
 
 ---
 
-### 🌸 Fun fact  
-I break code so I can learn how to fix it 😭✨
+## 🎯 Goals
+
+- Master backend development & build real-world APIs
+- Dive deeper into AI/ML projects
+- Get comfortable with Cloud Computing (AWS/Azure)
+- Contribute to open-source projects
+- Grow consistently 💚
+
+---
+
+## 🌸 Fun fact
+
+I break code so I can learn how to fix it 🤯✨
+
+---
+
+📍 Khordha, Odisha, India
+🔗 [LinkedIn](https://www.linkedin.com/in/srustisri-panda/)
