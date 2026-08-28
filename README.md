@@ -140,13 +140,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sru-codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sru-codes&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=sru-codes&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
@@ -170,38 +163,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sru-codes&theme=tokyonight" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sru-codes&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sru-codes&theme=tokyonight" alt="Most Commit Language" />
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-## 📈 Activity Graph
-
-</div>
-
-<div align="center">
-
-[![Srustisri's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sru-codes&theme=tokyonight&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-## 🏆 Trophies
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sru-codes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
