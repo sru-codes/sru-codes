@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: sru-codes
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=6C63FF&color_dots=21262d,30363d,484f58,6C63FF,8a2be2
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
