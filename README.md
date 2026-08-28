@@ -13,9 +13,9 @@
   <img src="https://raw.githubusercontent.com/sru-codes/sru-codes/main/galaxy-generator/assets/generated/galaxy-header.svg" alt="Galaxy Profile Banner" width="100%" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi,+I'm+Srustisri+Panda;B.Tech+CSE+Student+%7C+Builder+%7C+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi,+I'm+Srustisri+Panda;B.Tech+CSE+Student+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=sru-codes&label=Profile%20Views&color=FFFFFF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sru-codes&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srustisri-panda/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sru-codes)
@@ -140,14 +140,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sru-codes&show_icons=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sru-codes&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sru-codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sru-codes&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sru-codes&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9&hide_border=true" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=sru-codes&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
@@ -163,13 +163,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sru-codes&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sru-codes&theme=tokyonight" alt="Profile Details" />
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sru-codes&theme=github_dark" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sru-codes&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sru-codes&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sru-codes&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sru-codes&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sru-codes&theme=tokyonight" alt="Most Commit Language" />
 
 </div>
 
@@ -185,7 +185,7 @@
 
 <div align="center">
 
-[![Srustisri's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sru-codes&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff&area_color=ffffff&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Srustisri's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sru-codes&theme=tokyonight&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -201,7 +201,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sru-codes&theme=dark_dimmed&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sru-codes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -217,7 +217,7 @@
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -244,11 +244,11 @@
 ### 📍 Khordha, Odisha, India
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srustisri-panda/)
-[![GitHub followers](https://img.shields.io/github/followers/sru-codes?label=Follow&style=for-the-badge&logo=github&color=333333)](https://github.com/sru-codes?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/sru-codes/sru-codes?style=for-the-badge&logo=github&color=333333)](https://github.com/sru-codes/sru-codes/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/sru-codes?label=Follow&style=for-the-badge&logo=github&color=6C63FF)](https://github.com/sru-codes?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/sru-codes/sru-codes?style=for-the-badge&logo=github&color=FFD700)](https://github.com/sru-codes/sru-codes/stargazers)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ffffff&height=220&section=footer&text=Srustisri%20Panda%20%7C%20sru-codes&fontSize=12&fontColor=ffffff&animation=fadeIn" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=footer&text=Srustisri%20Panda%20%7C%20sru-codes&fontSize=12&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 
 </div>
