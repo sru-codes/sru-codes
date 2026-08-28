@@ -8,6 +8,11 @@
 🚀 building one repo at a time
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sru-codes/sru-codes/main/galaxy-generator/assets/generated/galaxy-header.svg">
+  <img src="https://raw.githubusercontent.com/sru-codes/sru-codes/main/galaxy-generator/assets/generated/galaxy-header.svg" alt="Galaxy Profile Banner" width="100%" />
+</picture>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi,+I'm+Srustisri+Panda;B.Tech+CSE+Student+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=sru-codes&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
@@ -89,6 +94,46 @@
 
 <div align="center">
 
+## 🌌 Galaxy Telemetry
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sru-codes/sru-codes/main/galaxy-generator/assets/generated/stats-card.svg" alt="Galaxy Telemetry" width="850" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/sru-codes/sru-codes/main/galaxy-generator/assets/generated/tech-stack.svg" alt="Galaxy Tech Stack" width="850" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/sru-codes/sru-codes/main/galaxy-generator/assets/generated/projects-constellation.svg" alt="Featured Projects" width="850" />
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🖥️ Retro Terminal
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sru-codes/sru-codes/main/galaxy-generator/assets/generated/terminal.gif" alt="Retro Terminal Boot" width="520" />
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
 ## 📊 GitHub Stats
 
 </div>
@@ -103,6 +148,28 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sru-codes&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## 📋 Profile Summary
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sru-codes&theme=tokyonight" alt="Profile Details" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sru-codes&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sru-codes&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sru-codes&theme=tokyonight" alt="Most Commit Language" />
 
 </div>
 
@@ -187,7 +254,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="400" />
+<img src="https://github.com/sru-codes/sru-codes/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution Snake" width="480" />
 
 ---
 
